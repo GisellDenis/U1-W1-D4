@@ -1,5 +1,16 @@
 /* IMPOSTAZIONI GENERALI */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@100;300;400;500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url(../img/sfondo.png);
+    background-position: center center;
+    background-size: contain;
+    line-height: 1.5;
+    font-size: 1.1em;
+}
+
 /* HEADER */
 
 /* MAIN */
